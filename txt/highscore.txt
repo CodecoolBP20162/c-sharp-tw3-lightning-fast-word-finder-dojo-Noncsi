@@ -1,0 +1,6 @@
+Noncsi Runs: 1000 Score: 55,709934
+Noncsi Runs: 1000 Score: 58,8634561
+Noncsi Runs: 1000 Score: 51,419941
+Noncsi Runs: 1000 Score: 47,0326901
+Noncsi Runs: 1000 Score: 46,6946708
+Noncsi Runs: 1000 Score: 46,4996596
